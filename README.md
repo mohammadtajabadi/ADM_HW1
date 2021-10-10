@@ -2,5 +2,5 @@
 
 This repository contains the files related to Homework 1 for the ADM Course.
 
-HW1.ipynb contains the codes for the Problems 1 & 2 specified in homework 1.
+HW1.ipynb contains the codes for the Problems 1 & 2 specified in homework 1.\n
 stamps/sceens.pdf contains the screenshots of the submissions in Hackerrank.
